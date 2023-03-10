@@ -1,0 +1,31 @@
+.box{
+   
+    border: 0.5px solid black;
+    background-color: white;
+    border-radius: 5px;
+}
+.blue-bg {
+    background-color: #101727;
+    color: white;
+}
+.white-bg {
+    background-color: white;
+    color: black;
+}
+.stat-box{
+    border: 0.5px solid black;
+    border-radius: 010px;;
+}
+.style-button{
+    padding: 10px 30px;
+    margin: 10px;
+    border: none;
+    font: 1.5px;
+    background-color: #48d6b5;
+    color: black;
+    border-radius: 5px;
+}
+.accordian{
+    margin: 50px;
+    
+}
