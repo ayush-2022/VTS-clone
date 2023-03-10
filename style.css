@@ -4,6 +4,10 @@
     background-color: white;
     border-radius: 5px;
 }
+.text-header-small {
+    font-size: 3rem;
+    font-weight: bold;
+}
 .blue-bg {
     background-color: #101727;
     color: white;
@@ -22,8 +26,9 @@
     border: none;
     font: 1.5px;
     background-color: #48d6b5;
-    color: black;
+    color:#000000;
     border-radius: 5px;
+    font-weight: bold;
 }
 .accordian{
     margin: 50px;
